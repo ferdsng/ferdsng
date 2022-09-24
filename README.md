@@ -14,5 +14,14 @@ Here are some ideas to get you started:
 -->
 
 # About me
+I'm Fernando Torres. A UI Designer / Frontend Developer from 🇲🇽 Mexico.  
+
+## Things I am passionate about
+- 🖥 Design
+- 👾 Code
+
+
+### Get in touch
+- 👨‍💻 Your future employee on LinkedIn
 
 
