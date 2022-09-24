@@ -14,13 +14,16 @@ Here are some ideas to get you started:
 -->
 
 ## About me
-I'm Fernando Torres. A Designer / Frontend Developer from 🇲🇽 Mexico. Working as a UX/UI designer ✏️ at vmly&r and [Kuiloa](https://www.kuiloa.mx)
+I'm Fernando Torres. A Designer / Frontend Developer from 🇲🇽 Mexico. Working as a UX/UI designer ✏️ at vmly&r and [Kuiloa](https://www.kuiloa.mx). 
+
+- 👯 I’m looking to collaborate on UI design
+- 💬 Ask me about HTML, CSS, JS
 
 ### Things I am passionate about
 - 🖥 Design
 - 👾 Code
 
 ### Get in touch
-- 👨‍💻 Your future employee on LinkedIn
+- 👨‍💻 Your future employee on [LinkedIn](https://www.linkedin.com/in/ferdsng/)
 
 
