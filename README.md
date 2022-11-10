@@ -20,7 +20,7 @@ I'm Fernando Torres, a designer / frontend developer from Mexico 🇲🇽 passio
 - 👯 I’m looking to collaborate on UI design. 
 - 💬 Ask me about HTML, CSS, JS, Figma, Ai, PS. 
 
-### Some langs and technologies that I enjoy
+### Some langs and technologies that enjoy.
 
 <p align="left">
  
