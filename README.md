@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## About me
 I'm Fernando Torres, a designer / frontend developer from Mexico 🇲🇽 passionate with create experiences for users. Currently working as a UX/UI designer, [Kuiloa](https://www.kuiloa.mx) co-founder and coffee ☕️ lover.
 
-- 🌱 I’m currently learning Spark AR. 
+- 🌱 I’m currently learning to play chess.
 - 👯 I’m looking to collaborate on UX/UI design. 
 - 💬 Ask me about HTML, CSS, JS, Figma, Ai, PS. 
 
